@@ -119,7 +119,7 @@
       </component>
       <component name="PropertiesComponent">
         <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
-        <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+        <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
       </component>
       <component name="masterDetails">
         <states>
