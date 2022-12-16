@@ -1,0 +1,17 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="R5CT21TQB9R" />
+          </Key>
+        </key>
+        <name value="samsung SM-S908B" />
+        <target value="Android API 33" />
+        <api value="33" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>
