@@ -5,12 +5,23 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="R5CT21TQB9R" />
+            <value value="R5CW11KHPJB" />
           </Key>
         </key>
-        <name value="samsung SM-S908B" />
-        <target value="Android API 33" />
-        <api value="33" />
+        <name value="samsung SM-S918B" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-R5CW11KHPJB-626hiV._adb-tls-connect._tcp" />
+          </Key>
+        </key>
+        <name value="samsung SM-S918B" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
